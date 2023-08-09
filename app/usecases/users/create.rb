@@ -17,3 +17,6 @@ module Users
     end
   end
 end
+
+# Comentando aqui que serve apenas para criar um usuário
+# é classe que recebe o model e cria o usuario
